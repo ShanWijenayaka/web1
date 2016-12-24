@@ -1,4 +1,12 @@
 *.log
+!special.log
 *.swp
 .DS_Store
+
+
+
+
+
+
+
 
